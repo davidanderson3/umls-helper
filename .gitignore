@@ -1,0 +1,3 @@
+# ignore UMLS data files
+umls-helper/umls-search/MRCONSO.RRF
+umls-helper/umls-search/MRSTY.RRF
