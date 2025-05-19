@@ -5,3 +5,5 @@ umls-search/MRCONSO.RRF
 umls-search/MRSTY.RRF
 umls-search/node_modules
 umls-search/package-lock.json
+umls-search/MRDEF.RRF
+umls-search/MRRANK.RRF
